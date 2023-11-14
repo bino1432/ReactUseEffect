@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+
+.btn {
+    transition: .5s ease;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.btn:active {
+    transform: scale(0.95);
+}
+
+.p {
+    color: white;    
+}
+
+.title {
+    color: white;
+}
