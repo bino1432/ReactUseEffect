@@ -16,7 +16,7 @@ function Daniel() {
 
   return (
     <>
-    <h1 className="title">Você gastou: {count > 0 ? count : 0} segundos com está pagina</h1>;
+    <h1 className="title">Você gastou {count > 0 ? count : 0} segundos com esta pagina</h1>;
     
     <button onClick={() => navigate('/')}>
         voltar
